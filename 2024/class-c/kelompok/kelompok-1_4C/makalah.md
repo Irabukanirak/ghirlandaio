@@ -76,6 +76,9 @@
 
 #### 2.2 Akar Konflik dalam perspektif Historis
 #### - Perkembangan apa saja yang terjadi pada sains dan agama pada masa Yunani. 
+#### Perkembangan ilmu pengetahuan di Yunani sangatlah melegenda, ada banyak ilmu lahir disini, yang menjelaskan perkembangan IPTEK pada zaman Yunani kuno sangat berkembang juga. Konsep Pythagoras dan kontribusi ilmiah dari Archimedes dari bidang fisika dan mekanika. Berikut ini adalah perkembangan iptek pada zaman Yunani kuno : 
+#### A. Filsafat Yunani kuno dan logika.
+####    Yunani kuno 
 #### - Perkembangan sains dan agama pada masa Romawi include Eropa dan negara lain.
 #### Perkembangan sains dan agama dalam sejarah peradaban manusia memiliki hubungan yang dinamis dan berbeda pada setiap periode. pada masa Yunani dan Romawi pemahaman tentang alam semesta pada awalnya dipengaruhi oleh mitologi dan kepercayaan terhadap dewa-dewa. Namun, sejak abada ke 6 SM, para filsuf yang menjelaskan fenomena alam secara rasional. Perubahan mitos menuju rasio ini menjadi dasr tumbuhnya pemikiran ilmiah dalam peradaban Barat. para filsuf Ynani berusaha memahami alam dengan pendekatan logis dan rasional sehingga mendorong perkembangan filsafat dan ilmu pengetahuan yang kemudian mempengaruhi peradaban Romawi dan Eropa selanjutnya. 
 #### Perkembangan berikutnya, ilmu pengetahuan mengalami kemajuan pesat dalam dunia Islam. Ini disebabkan oleh dorongan ajaran Islam yang menganjurkan umatnya untuk mencari ilmu dan meneliti alam semesta sebagai kebesaran Tuhan. Para ilmuwan Muslim tidak hanya menerima warisan ilmu pengetahuan dari Yunani dan Romawi, tetapi juga mengembangkan dalam berbagai bidang seperti matematika, kimia, astronomi dan kedokteran. Proses penerjemahan karya ilmiah Yunani ke dalam bahasa Arab yang dilakukan di pusat ilmu seperti Baghdad melalui lembaga Bayt al-Hikmah menjaddi salah satu faktor penting dalam perkembangan sains pada masa itu.
