@@ -53,3 +53,28 @@ Segala puji bagi Allah SWT yang telah memberikan kami kemudahan sehingga kami da
 Lima Hukum Ilmu Perpustakaan yang dirumuskan oleh S.R. Ranganathan pada tahun 1928 dan dipublikasikan pada tahun 1931 merupakan landasan filosofis paling berpengaruh dalam dunia perpustakaan. Meskipun telah berusia hampir satu abad, hukum-hukum ini tidak bersifat statis, melainkan terus mengalami transformasi melalui interpretasi ulang oleh para ahli untuk tetap relevan dengan perubahan zaman. Evolusi ini didorong oleh hukum kelima, yang menyatakan bahwa perpustaaan adalah organisme yang berkembang, sebuah kalimat yang menunjukkan bahwa perpustakaan harus mampu beradaptasi dengan lingkungan digital dan teknologi baru agar tidak punah dari "seleksi alam".
 Ranganathan secara tidak langusng memberikan gambaran analogi mengenai landasan evolusi hukum tersebut yang dimana terbagi menjadi 3 fase yaitu, masa kanak-kanak, fokus utama adalah pada pertumbuhan fisik, menambah buku,rak, dan luas bangunan agar bisa menampung koleksi yang semakin banyak, lalu masa dewasa pertumbuhan tidak hanya soal ukuran fisik, melainkan soal kualitas hubungan dan partisipasi. Perpustakaan mulai menjadi " tanpa dinding " dan hadir di mana saja melalui perangkat digital.
 era manusia super (era AI/Society 5.0), perpustakaan kini memiliki "otak buatan". ia tidak hanya lagi hanya menyimpan pengetahuan, tetapi secara proaktif memahami kebutuhan penggunanya secara cerdas.
+  ## 2.2 Jelaskan konsep cyrberethic and hubunganya dengan perpustakaan digital
+  ## 2.3 Jelaskan prinsip dasar keamanan cyber bagi perpustakaan digital dan lembaga arsip digital
+  Dalam lingkungan kontemporer (terbaru), perpustakaan dan lembaga arsip diklasifikasikan sebagai lembaga epistemik, yang menandakah bahwa tujuan utama mereka untuk memperoleh, menjaga, dn menyebarluaskan pengetahuan secara jujurdan ketidakberpihakan (objektif). Sebagai penjaga kebenerana informaso, lembaga ini harus menerapkan prinsip prinsip keamanan siber yang tidak hanya bersifat teknis, tetapi juga etis.
+  
+ a.	Dasar Utama Perlindungan Informasi (triad CIA)
+  Lembaga informasi digital harus menjamin tiga tujuan prinsip keamanan yang dikenal sebagai triad CIA :
+  1. Kerahasiaan (Confidentiality): Menjamin bahwa informasi sensitif, seperti data pribadi anggota atau dokumen terbatas, tidak dapat diperoleh oleh pihak tanpa izin
+  2. Integritas (Integrity): Mencegah atau mendeteksi modifikasi data yang tidak sah untuk memastikan bahwa catatan arsip atau koleksi digital tetap asli dan tidak dipalsukan
+  3. Ketersediaan (Availability): Memastikan bahwa sistem perpustakaan dan datanya tetap dapat diakses oleh pengguna yang berwenang saat dibutuhkan tanpa gangguan yang tidak sah.
+
+ b.	Prinsip Operasional dan Desain Keamanan
+
+Untuk membangun sistem yang tangguh, pengelola perpustakaan dan arsip digital harus mengikuti prinsip-prinsip desain berikut:
+1. Hak Akses Minimal: Pengguna (staf) atau bagian sistem tidak boleh memiliki hak akses lebih dari yang diperlukan untuk melaksanakan tugas khusus mereka supaya mencegah risiko penyalahgunaan.
+2.	Pertahanan Berlapis: Prosedur keamanan tunggal tidak boleh diandalkan. Sebaliknya, beberapa prosedur harus digunakan secara bersamaan, sehingga meningkatkan upaya yang diperlukan oleh penyerang.
+3.	Desain Terbuka: Keamanan tidak boleh bergantung pada kerahasiaan cara kerja sistem yang mengandalkan penyembunyian detail teknis seperti, lokasi file, versi perangkat lunak, atau port standar, agar tidak diketahui penyerang, Sistem harus tetap aman meskipun detail desainnya diketahui publik.
+4.	Penolakan Secara Default: Akses tidak boleh diberikan kecuali jika ditentukan secara eksplisit dalam kebijakan.
+5.	Pemisahan Tugas: Tugas-tugas kritis (seperti penghapusan arsip permanen) harus dibagi ke individu yang berbeda agar tidak ada satu orang pun yang memiliki kendali merusak secara total atau mutlak.
+6.	Prinsip Kejutan Minimal: Prosedur keamanan harus intuitif dan mudah digunakan oleh staf perpustakaan agar prosedur keamanannya tidak diabaikan karena terlalu rumit.
+7.	Percaya tapi Verifikasi : Meskipun suatu akun atau komponen dianggap dapat dipercaya, identitas dan otoritasnya harus tetap diverifikasi secara berkala.
+   
+
+
+  
+ 
